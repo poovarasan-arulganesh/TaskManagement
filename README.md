@@ -147,9 +147,5 @@ And inside the src folder open the .env file and comment down `production domain
 ```
 It will open the Project in your default browser: http://localhost:3000
 
-  
-## Authors
-
-- [Imran Hasan Rahi](https://linkedin.com/in/icerahi)
 
   
